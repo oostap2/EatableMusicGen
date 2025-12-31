@@ -7,4 +7,6 @@ pip install pygame
 ```
 # Running the Program
 Simply execute the script
-```python main.py```
+```bash
+python main.py
+```
